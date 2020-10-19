@@ -1,0 +1,94 @@
+/*Selector {
+	Property: value;
+}*/
+*{
+	text-align: left;
+}
+body{
+	background-size:cover;
+	cursor: pointer;
+	background-color: rgba(100,30,20,0.2);
+	text-align: "center";
+}
+h2 {color: #27556C;
+	text-align: center;
+	border: 5px solid yellow;
+	cursor: pointer;
+}	
+p {
+	color: indigo;
+	text-align: left;
+	text-decoration: underline;
+	text-transform: uppercase;
+	line-height: 30px;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 80%;
+	font-family: 'Open Sans Condensed', sans-serif;
+	border:2px solid green;
+}
+ul:hover {
+	color:yellow;
+}
+li{
+	list-style: none;
+	display: inline-block;
+	color: yellow;
+}
+link{
+	color: yellow;
+}
+.webtext{
+	border: 5px solid white;
+}      
+.active{
+	color: green;
+}
+#div1{
+	background: rgba(0,200,100,0.3);
+}
+form{
+	color: rgb(100,100,200);
+	text-align: center;
+}
+input{
+	color: green;
+	text-align: center;
+}
+img{
+	float: right;
+	width: 300px;
+	height:200px;
+}
+footer{
+	color: orange;
+	text-align: center;
+	clear: both;
+}
+li:hover {
+	transform: scale(1.1);
+}
+.col{
+	background-color: yellow;
+	border : 2px solid green ;
+}
+#carouselExampleFade{
+	width: 400px;
+	height: 300px;
+}
+.pwd{
+	text-align: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
